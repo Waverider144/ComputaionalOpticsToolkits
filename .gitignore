@@ -4,6 +4,7 @@ bin/
 lib/
 dist/
 cache/
+outputs/
 *.out
 *.exe
 *.app
